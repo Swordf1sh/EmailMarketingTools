@@ -8,7 +8,7 @@ setup(
         # list your package dependencies
     ],
     # Additional metadata about your package
-    author='Your Name',
+    author='Jasper',
     author_email='your.email@example.com',
     description='A short description of your package',
     long_description=open('README.md').read(),
